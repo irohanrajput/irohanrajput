@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!! I'm Rohan Rajput/h1>
+<h1 align="center">Hello World!! I'm Rohan Rajput</h1>
 <p> You'll find me at many major platforms by my nickname 'Rohan'. I'd been using this name for years, and changing it to my official name "Tushar" doesn't look good, so don't get confused.. Happy Coding :D </p>
 <p align="left"> <a href="https://twitter.com/irohanrajput" target="blank"><img src="https://img.shields.io/twitter/follow/irohanrajput?logo=twitter&style=for-the-badge" alt="irohanrajput" /></a> </p>
 
