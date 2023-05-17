@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/irohanrajput" target="blank"><img src="https://img.shields.io/twitter/follow/irohanrajput?logo=twitter&style=for-the-badge" alt="irohanrajput" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning along with some Web Develpoment.**
+- 🌱 I’m currently learning **Machine Learning** along with some **Web Develpoment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
