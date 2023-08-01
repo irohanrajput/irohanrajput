@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🌱 I’m currently learning **Django**</h1>
+<h1 align="center">🌱 I’m currently learning Django </h1>
 <p align="left"> <a href="https://twitter.com/irohanrajput" target="blank"><img src="https://img.shields.io/twitter/follow/irohanrajput?logo=twitter&style=for-the-badge" alt="irohanrajput" /></a> </p>
 - 
 <h3 align="left">Connect with me:</h3>
