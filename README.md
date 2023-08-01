@@ -2,7 +2,6 @@
 
 <h1 align="center">🌱 I’m currently learning Django </h1>
 <p align="left"> <a href="https://twitter.com/irohanrajput" target="blank"><img src="https://img.shields.io/twitter/follow/irohanrajput?logo=twitter&style=for-the-badge" alt="irohanrajput" /></a> </p>
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/irohanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irohanrajput" height="30" width="40" /></a>
