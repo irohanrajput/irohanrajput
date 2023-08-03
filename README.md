@@ -13,8 +13,6 @@
 </p>
 ⚙️ &nbsp;GitHub Analytics
 
-<br>
-<h3> 📊 Some stats: </h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irohanrajput&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irohanrajput&show_icons=true&locale=en&layout=compact" alt="irohanrajput" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohanrajput&" alt="irohanrajput" />
