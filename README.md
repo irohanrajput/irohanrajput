@@ -15,7 +15,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irohanrajput&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
-### 💻 Stack I Use:<br>
+### 💻 Tech Stack:<br>
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,python,django,sqlite,bootstrap,git,linux,cpp)](https://skillicons.dev) 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irohanrajput&show_icons=true&locale=en&layout=compact" alt="irohanrajput" />
