@@ -13,7 +13,7 @@
 </p>
 
 
-### 💻 Tech Stack:<br>
+### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,python,django,sqlite,bootstrap,git,linux,cpp)](https://skillicons.dev) 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irohanrajput&show_icons=true&locale=en&layout=compact" alt="irohanrajput" />
