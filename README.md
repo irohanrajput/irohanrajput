@@ -11,13 +11,16 @@
 <a href="https://www.hackerrank.com/irohanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="irohanrajput" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/irohanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irohanrajput" height="30" width="40" /></a>
 </p>
-⚙️ &nbsp;GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irohanrajput&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
 ### 💻 Tech Stack:<br>
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,python,django,sqlite,bootstrap,git,linux,cpp)](https://skillicons.dev) 
 <br>
+## 📈 Some of my GitHub stats:       
+
+
+![](https://komarev.com/ghpvc/?username=irohanrajput&style=flat-square)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irohanrajput&show_icons=true&locale=en&layout=compact" alt="irohanrajput" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohanrajput&" alt="irohanrajput" />
 <br>
