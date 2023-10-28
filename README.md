@@ -18,7 +18,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irohanrajput&show_icons=true&locale=en&layout=compact" alt="irohanrajput" />
 
-![](https://github-readme-stats.vercel.app/api?username=codecShivam&show_icons=true&hide=[%22issues%22])
+![](https://github-readme-stats.vercel.app/api?username=irohanrajput&show_icons=true&hide=[%22issues%22])
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohanrajput&" alt="irohanrajput" />
