@@ -14,7 +14,7 @@
 
 
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,python,django,flask,sqlite,postgres,bootstrap,git,linux,cpp,postman)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,javascript,python,django,fastapi,flask,react,bootstrap,postman,sqlite,postgres,git,linux)](https://skillicons.dev) 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irohanrajput&show_icons=true&locale=en&layout=compact" alt="irohanrajput" />
 
