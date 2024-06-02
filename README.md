@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linktree-31C62F?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/irohanrajput)](https://linktr.ee/irohanrajput) 
 [![Linkedin Badge](https://img.shields.io/badge/-irohanrajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irohanrajput)](https://www.linkedin.com/in/irohanrajput) 
-[![Twitter Badge](https://img.shields.io/badge/-irohanrajput-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/irohanrajput/)](https://www.x.com/irohanrajput) 
+[![Twitter Badge](https://img.shields.io/badge/-irohanrajput-blue?style=flat-square&logo=x&logoColor=white&link=https://www.twitter.com/irohanrajput/)](https://www.x.com/irohanrajput) 
 [![ancient sky](https://img.shields.io/badge/-ancientSkyy-AD2D63?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ancientSkyy/)](https://www.instagram.com/ancientskyy/) 
 [![Gmail Badge](https://img.shields.io/badge/-itusharsingh27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itusharsingh27@gmail.com)](mailto:itusharsingh27@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irohanrajput" alt="irohanrajput" /> </p>
