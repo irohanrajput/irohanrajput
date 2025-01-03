@@ -1,6 +1,8 @@
 
 
 ## Hey, tushar this side <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+[![ancient sky](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=awesomewm&logoColor=white&link=https://www.tinyurl.com/irohanrajput/)](https://tinyurl.com/irohanrajput/) 
+
 <img src = 'https://github.com/irohanrajput/irohanrajput/blob/main/bike.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linktree-31C62F?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/irohanrajput)](https://linktr.ee/irohanrajput) 
@@ -10,6 +12,7 @@
 
 [![ancient sky](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/irohanrajput/)](https://www.medium.com/@irohanrajput/) 
 [![ancient sky](https://img.shields.io/badge/-Hashnode-blue?style=flat-square&logo=Hashnode&logoColor=white&link=https://www.hashnode.com/@irohanrajput/)](https://hashnode.com/@irohanrajput/) 
+
 
 [![Gmail Badge](https://img.shields.io/badge/-itusharsingh27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itusharsingh27@gmail.com)](mailto:itusharsingh27@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irohanrajput" alt="irohanrajput" /> </p>
