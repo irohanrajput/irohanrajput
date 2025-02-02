@@ -27,7 +27,7 @@ I write code. and yes I love Motorcycling in the mountains too.
 ![github stats](https://github-readme-stats.vercel.app/api?username=irohanrajput&show_icons=true&hide=[%22issues%22])
 
 ## Nowadays..
-* I'm building **Web Applications"**, Backend mainly.
+* I'm building **Web Applications**, Backend mainly.
 * Learning about Databases, Networking, Operating-System.
 * and I am learning Guitar as well, taking classes on a regular basis 💀
   <br/>
@@ -35,7 +35,7 @@ I write code. and yes I love Motorcycling in the mountains too.
 	
 ### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,docker,git,linux,mongodb,supabase)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,react,express,node,bootstrap,postman)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,react,express,bootstrap,postman)](https://skillicons.dev) 
 
 </div>
 <br/>
