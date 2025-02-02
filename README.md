@@ -34,8 +34,8 @@ I write code. and yes I love Motorcycling in the mountains too.
   <div style="max-width: 70%;">
 	
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,flask,docker,git,linux,sqlite,postgres,mongodb,supabase)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,javascript,react,tailwindcss,express,prisma,bootstrap,postman)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,docker,git,linux,mongodb,supabase)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,react,express,node,bootstrap,postman)](https://skillicons.dev) 
 
 </div>
 <br/>
